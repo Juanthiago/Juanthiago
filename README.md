@@ -11,5 +11,4 @@
   <img align="center" alt="Juan-python" height="30" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Juan-mysql" height="30" width="40"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 </div>
