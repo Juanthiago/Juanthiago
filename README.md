@@ -26,7 +26,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções web
 ### Contato
 
 - **Email**: juanthiago20144@hotmail.com
-- **LinkedIn**: [Juan Thiago](https://www.linkedin.com/in/juan-almeida-dev)
+- **LinkedIn**: [Juan Almeida](https://www.linkedin.com/in/juan-almeida-dev)
 - **GitHub**: [JuanThiago](https://github.com/JuanThiago)
 
 ### Estatísticas do GitHub
