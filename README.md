@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções web
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img align="center" alt="Juan-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Juan-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="Juan-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Juan-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Juan-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="Juan-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
@@ -26,7 +26,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções web
 
 ### Contato
 
-- **Email**: juanthiago@example.com
+- **Email**: juanthiago20144@hotmail.com
 - **LinkedIn**: [Juan Thiago](https://www.linkedin.com/in/juan-almeida-dev)
 - **GitHub**: [JuanThiago](https://github.com/JuanThiago)
 
