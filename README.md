@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções web
 
 ### Projetos Destacados
 
-- **[FSW Donalds](https://github.com/JuanThiago/fsw-donalds)**: Um projeto de restaurante moderno desenvolvido com Next.js, TypeScript e Tailwind CSS, que permite aos usuários fazerem pedidos e pagamentos utilizando tokens.
+- **[FSW Donalds](https://github.com/JuanThiago/projeto-fsw-donalds)**: Um projeto de restaurante moderno desenvolvido com Next.js, TypeScript e Tailwind CSS, que permite aos usuários fazerem pedidos e pagamentos utilizando tokens.
 - **[Outro Projeto](https://github.com/JuanThiago/outro-projeto)**: Descrição breve do projeto.
 
 ### Contato
